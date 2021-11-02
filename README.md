@@ -1,0 +1,2 @@
+# odoopractice
+Practice Odoo Development
